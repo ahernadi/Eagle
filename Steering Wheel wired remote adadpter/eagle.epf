@@ -353,12 +353,6 @@ UsedLibrary="C:/EAGLE-7.2.0/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE-7.2.0/lbr/zilog.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="492 231 1091 630"
-State=1
-Number=0
-
-[Win_2]
 Type="Schematic Editor"
 Loc="492 231 1091 630"
 State=1
@@ -403,9 +397,10 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
+Views=" 1: -38.0519 22.1375 87.5623 94.0506"
 Sheet="1"
 
-[Win_3]
+[Win_2]
 Type="Board Editor"
 Loc="492 231 1091 630"
 State=1
@@ -450,6 +445,12 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=16
+
+[Win_3]
+Type="Control Panel"
+Loc="492 231 1091 630"
+State=1
+Number=0
 
 [Desktop]
 Screen="1600 900"
